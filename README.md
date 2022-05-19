@@ -1,4 +1,4 @@
-# WeightConvertor
+# Weight Convertor
 A Simple Web Application coverting weight.
 
 ## Tech Stacks Used
