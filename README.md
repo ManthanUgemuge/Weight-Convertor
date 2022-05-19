@@ -13,7 +13,7 @@ A Simple Web Application coverting weight.
 https://github.com/ManthanUgemuge/WeightConvertor.git
 
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/WeightConvertor/)//[Download]()
+- Run Directly - [Live](https://manthanugemuge.github.io/WeightConvertor/)//[Download](https://github.com/ManthanUgemuge/WeightConvertor/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
