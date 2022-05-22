@@ -1,5 +1,5 @@
 # Weight Convertor
-A Simple Web Application coverting weight.
+A Simple web application coverting weight.
 
 ## Tech Stacks Used
 
