@@ -3,7 +3,7 @@ A Simple Web Application coverting weight using HTML, CSS & JavaScript.
 
 ## About the Project
 
-
+Basic Web Application converting weight from 
 
 
 ## Tech Stacks Used
