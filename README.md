@@ -1,5 +1,5 @@
 # Weight Convertor
-A Simple web application coverting weight.
+A Simple Web Application coverting weight using HTML, CSS & JavaScript.
 
 ## About the Project
 
