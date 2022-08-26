@@ -20,10 +20,10 @@ Basic Web Application converting weight from Pounds to
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/WeightConvertor.git
+https://github.com/ManthanUgemuge/Weight-Convertor.git
 
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/WeightConvertor/)//[Download](https://github.com/ManthanUgemuge/WeightConvertor/archive/refs/heads/main.zip)
+- Run Directly - [Live](https://manthanugemuge.github.io/Weight-Convertor/)//[Download](https://github.com/ManthanUgemuge/Weight-Convertor/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
