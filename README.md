@@ -4,9 +4,9 @@ A Simple Web Application coverting weight using HTML, CSS & JavaScript.
 ## About the Project
 
 Basic Web Application converting weight from Pounds to
-- Grams
-- Kilograms
-- Ounces
+1- Grams
+2- Kilograms
+3- Ounces
 
 
 ## Tech Stacks Used
