@@ -30,4 +30,4 @@ https://github.com/ManthanUgemuge/Weight-Convertor.git
 Pull requests are welcome, feel free to ```fork``` this repo.
 
 ## License
-This project is open-sourced under the [MIT license]().
+This project is open-sourced under the [MIT license](https://github.com/ManthanUgemuge/Weight-Convertor/blob/main/LICENSE).
