@@ -8,7 +8,6 @@ Basic Web Application converting weight from Pounds to
 2. Kilograms
 3. Ounces
 
-
 ## Tech Stacks Used
 
 <a target="_blank" href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img></a>
@@ -23,8 +22,8 @@ Basic Web Application converting weight from Pounds to
 https://github.com/ManthanUgemuge/weight-convertor.git
 
 ```
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")]() 
-[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://github.com/ManthanUgemuge/weight-convertor/archive/refs/heads/main.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/weight-convertor/archive/refs/heads/main.zip)
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/weight-convertor/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
